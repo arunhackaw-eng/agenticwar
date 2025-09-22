@@ -1,4 +1,4 @@
-customer_id,first_name,last_name,email,phone,pan,created_at,updated_at
+customer_id,first_name,last_name,email,phone,pan,created_time,updated_time
 C001,Ravi,Kumar,ravi.kumar@example.com,9876543210,ABCDE1234F,2023-01-01 10:00:00,2023-02-01 12:00:00
 C002,Meena,Iyer,,9876500000,PQRSX5678Z,2023-01-05 09:00:00,2023-02-02 14:30:00
 C003,Arun,Sharma,arun.sharma@example.com,98XX543210,LMNOP3456Y,2023-01-10 11:15:00,2023-02-05 16:00:00
